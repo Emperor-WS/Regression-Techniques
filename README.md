@@ -7,4 +7,4 @@ Multiple Linear Regression\
 Polynomial Linear Regression\
 Random Forest Regression\
 Simple Linear Regression\
-Simple Linear Regression\
+Simple Linear Regression
