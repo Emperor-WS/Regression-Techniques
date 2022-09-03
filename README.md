@@ -1,5 +1,5 @@
 # Regression-Techniques
-Implementing every regression technique using sklearn
+Implementing every regression technique using sklearn, pandas, matplotlib and numpy
 
 I implemented the following:
 Decision Tree Regression
